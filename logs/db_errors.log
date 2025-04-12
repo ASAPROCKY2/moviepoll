@@ -1,0 +1,6 @@
+[2025-04-03 12:24:23] Connection failed: SQLSTATE[HY000] [1044] Access denied for user 'admin'@'localhost' to database 'movie-poll-db'
+[2025-04-03 12:26:54] Connection failed: SQLSTATE[HY000] [1044] Access denied for user 'admin'@'localhost' to database 'movie-poll-db'
+[2025-04-03 12:26:56] Connection failed: SQLSTATE[HY000] [1044] Access denied for user 'admin'@'localhost' to database 'movie-poll-db'
+[2025-04-03 18:18:50] Connection failed: SQLSTATE[HY000] [1044] Access denied for user 'admin'@'localhost' to database 'movie-poll-db'
+[2025-04-03 18:18:55] Connection failed: SQLSTATE[HY000] [1044] Access denied for user 'admin'@'localhost' to database 'movie-poll-db'
+[2025-04-04 16:50:12] Connection failed: SQLSTATE[HY000] [1045] Access denied for user 'admin'@'localhost' (using password: YES)
